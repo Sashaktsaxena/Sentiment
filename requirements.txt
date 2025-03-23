@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+tensorflow
+pydantic
+pickle5
+numpy
+tensorflow-cpu  # (Only if not using GPU)
